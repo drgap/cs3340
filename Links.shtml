@@ -1,0 +1,105 @@
+<html>
+
+<head>
+
+	<title>Links</title>
+
+    <link rel="stylesheet" type="text/css" href="styles/courseSite.css">
+    <link rel="stylesheet" type="text/css" href="styles/links.css">
+    <link rel="stylesheet" type="text/css" href="styles/navBar.css">
+
+</head>
+
+<body marginheight="0" marginwidth="0" leftmargin="0" rightmargin="0" topmargin="0">
+
+<!-- Navigation bar. -->
+<!--#include virtual="includes/headerL1.htm" -->
+<!-- Links Heading. -->
+
+	<h1>ASP.NET Links</h1>
+
+<!-- Chapter TOC -->
+
+<div class="toc1">
+
+<table class="toc2" border="0" cellspacing="0" width="90%" cellpadding="3" height="270">
+	<tr>
+		<td class="siteHdrTD" height="20"><span class="khakiS">Site</span></td>  
+		<td class="descHdrTD" height="20"><span class="khakiS">Description</span></td>
+	</tr>
+
+	<tr>
+	  <td class="siteTD" height="18"><a href="http://msdn.microsoft.com/en-us/library">MSDN</a></td>
+	  <td height="18">MSDN Library</td>
+    </tr>
+    
+
+
+	<tr>
+	  <td class="siteTD" height="18"><a href="http://msdn.microsoft.com/en-us/library/gg145045(v=VS.100).aspx">MS FCL</a></td>
+	  <td height="18">FCL</td>
+    </tr>
+	<tr>
+		<td class="siteTD" height="18"><a href="http://forums.asp.net/">MS 
+		forums</a></td>  
+		<td height="18">Ask a question. Moderated, signup required.</td>
+	</tr>
+    <tr>
+		<td class="siteTD" height="18">
+		<a href="http://msdn.microsoft.com/asp.net/">MS ASP.NET</a></td>  
+		<td height="18">MS ASP.NET main site.</td>
+    </tr>
+    <tr>
+		<td class="siteTD" height="18">
+		<a href="http://msdn.microsoft.com/vcsharp/default.aspx">MS VS</a></td>  
+		<td height="18">MS VS main site</td>
+    </tr>
+    <tr>
+		<td class="siteTD" height="18">
+		<a href="http://msdn.microsoft.com/en-us/vstudio/hh388566">MS C#</a></td>  
+		<td height="18">MS C# main site</td>
+    </tr>
+    <tr>
+		<td class="siteTD" height="18">
+		<a href="https://www.w3schools.com/asp/webpages_intro.asp">W3C</a></td>  
+		<td height="18">W3C's asp.net tutorial</td>
+    </tr>
+    <tr>
+		<td class="siteTD" height="18"><a href="http://www.csharphelp.com/">C# Help</a></td>  
+		<td height="18">C# Portal</td>
+    </tr>
+    <tr>
+      <td class="siteTD" height="17"><a href="https://www.c-sharpcorner.com/">C# Corner</a></td>
+      <td height="17">C# portal and ASP.NET</td>
+    </tr>
+    <tr>
+      <td class="siteTD" height="17"><a href="http://www.functionx.com/csharp/">C#4</a></td>
+      <td height="17">C# portal</td>
+    </tr>
+
+	<tr>
+		<td class="siteTD" height="18"><a href="http://www.codeproject.com/kb/cs/">Code Project</a></td>  
+		<td height="18">C# articles, examples</td>
+	</tr>
+
+    <tr>
+		<td class="siteTD" height="18"><a href="https://runestone.academy/runestone/books/published/webfundamentals/index.html">Fund. Web Prog</a></td>  
+		<td height="18">Complete course</td>
+    </tr>
+
+	<tr>
+		<td class="siteTD" height="18"></td>  
+		<td height="18"></td>
+	</tr>
+
+	<tr>
+		<td class="siteTD" height="18"></td>  
+		<td height="18"></td>
+	</tr>
+</table>
+</div>
+
+
+</body>
+
+</html>
